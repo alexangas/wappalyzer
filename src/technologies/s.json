@@ -2668,7 +2668,7 @@
       "sc_expview": ""
     },
     "description": "Sitecore provides web content management, and multichannel marketing automation software.",
-    "html": "<img[^>]+src=\"[^>]*/~/media/[^>]+\\.ashx",
+    "html": "<img[^>]+src=\"[^>]*/[~-]/media/[^>]+\\.(?:ashx|svg|png|jpg|gif)",
     "icon": "Sitecore.svg",
     "pricing": [
       "poa",
