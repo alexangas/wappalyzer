@@ -3906,6 +3906,18 @@
     "url": "https.+\\.b2clogin\\.com",
     "website": "https://azure.microsoft.com/en-us/services/active-directory/external-identities/b2c/"
   },
+  "Azure Application Gateway": {
+    "cats": [
+      65
+    ],
+    "cookies": {
+      "ApplicationGatewayAffinityCORS": ""
+    },
+    "description": "Azure Application Gateway is a web traffic load balancer that enables you to manage traffic to your web applications.",
+    "icon": "azure.svg",
+    "implies": "Azure",
+    "website": "https://docs.microsoft.com/en-us/azure/application-gateway/"
+  },
   "Azure CDN": {
     "cats": [
       31
